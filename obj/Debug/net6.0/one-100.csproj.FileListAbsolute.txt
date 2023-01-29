@@ -1,0 +1,15 @@
+C:\Users\p2tha\source\repos\one-100\bin\Debug\net6.0\one-100.exe
+C:\Users\p2tha\source\repos\one-100\bin\Debug\net6.0\one-100.deps.json
+C:\Users\p2tha\source\repos\one-100\bin\Debug\net6.0\one-100.runtimeconfig.json
+C:\Users\p2tha\source\repos\one-100\bin\Debug\net6.0\one-100.dll
+C:\Users\p2tha\source\repos\one-100\bin\Debug\net6.0\one-100.pdb
+C:\Users\p2tha\source\repos\one-100\obj\Debug\net6.0\one-100.csproj.AssemblyReference.cache
+C:\Users\p2tha\source\repos\one-100\obj\Debug\net6.0\one-100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p2tha\source\repos\one-100\obj\Debug\net6.0\one-100.AssemblyInfoInputs.cache
+C:\Users\p2tha\source\repos\one-100\obj\Debug\net6.0\one-100.AssemblyInfo.cs
+C:\Users\p2tha\source\repos\one-100\obj\Debug\net6.0\one-100.csproj.CoreCompileInputs.cache
+C:\Users\p2tha\source\repos\one-100\obj\Debug\net6.0\one-100.dll
+C:\Users\p2tha\source\repos\one-100\obj\Debug\net6.0\refint\one-100.dll
+C:\Users\p2tha\source\repos\one-100\obj\Debug\net6.0\one-100.pdb
+C:\Users\p2tha\source\repos\one-100\obj\Debug\net6.0\one-100.genruntimeconfig.cache
+C:\Users\p2tha\source\repos\one-100\obj\Debug\net6.0\ref\one-100.dll
